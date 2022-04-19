@@ -1,0 +1,11 @@
+C:\Users\Golt1on\source\repos\cSharpPart3\WinFormWebServices\bin\Debug\WinFormWebServices.exe.config
+C:\Users\Golt1on\source\repos\cSharpPart3\WinFormWebServices\bin\Debug\WinFormWebServices.exe
+C:\Users\Golt1on\source\repos\cSharpPart3\WinFormWebServices\bin\Debug\WinFormWebServices.pdb
+C:\Users\Golt1on\source\repos\cSharpPart3\WinFormWebServices\obj\Debug\WinFormWebServices.csproj.AssemblyReference.cache
+C:\Users\Golt1on\source\repos\cSharpPart3\WinFormWebServices\obj\Debug\WinFormWebServices.csproj.SuggestedBindingRedirects.cache
+C:\Users\Golt1on\source\repos\cSharpPart3\WinFormWebServices\obj\Debug\WinFormWebServices.Form1.resources
+C:\Users\Golt1on\source\repos\cSharpPart3\WinFormWebServices\obj\Debug\WinFormWebServices.Properties.Resources.resources
+C:\Users\Golt1on\source\repos\cSharpPart3\WinFormWebServices\obj\Debug\WinFormWebServices.csproj.GenerateResource.cache
+C:\Users\Golt1on\source\repos\cSharpPart3\WinFormWebServices\obj\Debug\WinFormWebServices.csproj.CoreCompileInputs.cache
+C:\Users\Golt1on\source\repos\cSharpPart3\WinFormWebServices\obj\Debug\WinFormWebServices.exe
+C:\Users\Golt1on\source\repos\cSharpPart3\WinFormWebServices\obj\Debug\WinFormWebServices.pdb
